@@ -1,4 +1,4 @@
-rubyschool
-==========
+My workbook
+===========
 
-rubyschool.us
+http://rubyschool.us
