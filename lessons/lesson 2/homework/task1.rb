@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- encoding: utf-8 -*-
 
 print "Введите напряжение (u): "
 u = gets.to_f
