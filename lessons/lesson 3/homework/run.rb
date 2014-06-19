@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-puts "Enter string: "
+print "Enter string: "
 str = gets.chomp
-puts "Enter number: "
+print "Enter number: "
 n = gets.to_i
 
 puts str * n
