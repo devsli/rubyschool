@@ -1,4 +1,4 @@
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 print "Расстояние до дачи, в километрах: "
 distance = gets.to_f
