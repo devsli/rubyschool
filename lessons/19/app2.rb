@@ -10,5 +10,4 @@ end
 post '/' do
     @login = params[:email]
     erb (params[:email] == 'admin' && params[:password] == 'secret') ? :congrats : :epicfail;
-#    erb :index
 end
